@@ -1,6 +1,4 @@
 # Genetics-based Classification and Biomarker Identification in Cancer of Unknown Primary
-**Contributors:** Afia Ibnath, Reuben Walker, Ammara Akhtar
-
 ## Project Goal
 This project aims to evaluate whether deep learning classifiers are more effective than decision tree classifiers in accurately classifying cancers of unknown primary (CUP) based on genetic data.
 
@@ -120,4 +118,4 @@ Used SHAP Deep Explainer to interpret model predictions by understanding feature
 ### Final Model architecture 
 ![Final Model](images/final_model.png)
 
-
+**Contributors:** Afia Ibnath, Reuben Walker, Ammara Akhtar
